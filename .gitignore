@@ -1,0 +1,5 @@
+*.apk
+*_DoNotShip/
+.vs/
+Logs/
+Library/
